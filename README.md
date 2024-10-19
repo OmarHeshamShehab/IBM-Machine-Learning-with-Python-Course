@@ -75,5 +75,3 @@ pip install -r requirements.txt
 IBM Machine Learning with Python Course
 
 ---
-
-Feel free to explore and modify the notebooks to enhance your understanding of machine learning concepts. Happy learning!
